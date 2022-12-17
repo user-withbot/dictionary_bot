@@ -1,0 +1,2 @@
+# dictionary_bot
+telebot
